@@ -1,0 +1,17 @@
+.TodoForm-container{
+    width:100%;
+}
+
+.TodoForm{
+    display:flex;
+    flex-direction:column;
+}
+
+.TodoForm-buttonContainer{
+    display:flex;
+    flex-direction:row;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    width:100%;
+}
